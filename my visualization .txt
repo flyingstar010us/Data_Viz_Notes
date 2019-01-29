@@ -1,1 +1,11 @@
-just test
+notes about database
+
+1. database is useful and is being applyed.
+
+2. data visualization can let data be simple and easy to understand
+
+3. softwares to deal with data, just like Tablueau
+
+4. new technologies to deal with data and visualization
+
+5. data simplization and clean
