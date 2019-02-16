@@ -1,0 +1,86 @@
+chapter 03: clutter is your enemy!
+
+Identifying and removing the non-informative data
+
+excessive or extraneous cognitive load: In cognitive psychology, cognitive load refers to the effort being used in the working memory. Cognitive load theory differentiates cognitive load into three types: intrinsic, extraneous, and germane (by Wikipedia).
+
+Cognitive load = mental processing power
+
+Extraneous cognitive load: processing that takes up mental resources but doesn’t help the audience understand the information
+
+Option: try to maximize data‐ink or signal‐to‐noise ratio
+
+Clutter: visual elements that take up space but don’t increase understanding （too complicated to understand)
+
+Gestalt Principles of Visual Perception: used to help explain how we organize sensory information.
+1. proximity 接近性
+2.similarity 相似性 Objects that are of similar color, shape, size, or  orientation are perceived as related or belonging to part of a group.
+3. enclosure 封闭性 objects that are physically enclosed together as belonging to part of a group.
+4. closure,people like things to be simple and to fit in the constructs that are already in our heads.
+5. continuity 连续性
+6. connection. people tend to think of objects that are physically connected as part of a group.
+
+Decluttering:
+1. Remove chart border
+2. Remove gridlines
+3. Remove data markers
+4. Clean up axis labels
+5. Label data directly
+6. Leverage consistent color
+
+chapter 04 focus your audience's attention
+
+preattentive attributes:
+
+(A preattentive visual property is one which is processed in spatial memory without our conscious action. )
+
+Seeing process: object ---seeing action --- information processed by brain.
+
+Memory in brain: 
+1. iconic memory: super fast, with efficiency of sight and speed of response, without realizing
+2. short‐term memory: people can keep about four chunks of visual information in their short‐term memory at a given time. Cognitive burden weaks the ability of communication.
+3. long‐term memory: built up over a lifetime and is vitally important for pattern recognition and general cognitive processing
+
+Make things remarkable!  ===>> enable our audience to see what we want them to see before they even know they’re seeing it!
+
+(1). Preattentive attributes in text ==> create visual hierarchy to focus audience's attention
+(2). Preattentive attributes in graphs ==> colorful visual cues
+(3). Position on page
+
+
+chapter 05 think like a designer
+
+Form follows function.
+
+1. affordances: aspects inherent to the design that make it obvious how the product is to be used.
+   (1) highlight the important stuff--bold, case, color, inversing elements, size;
+   (2) eliminate distractions-- Push necessary, summarize;
+   (3) create a clear hierarchy of information.
+
+
+2. accessibility: designs should be usable by people of diverse abilities.
+  (1) don’t overcomplicate 
+  (2) text
+
+ 3. aesthetics:  easier to use, promote creative thinking and problem solving
+  (1).color
+  (2) pay attention to alignment
+  (3) leverage white space
+
+
+Chapter 06  dissecting model visuals
+
+Model visual #1: line graph
+
+Model visual #2: annotated line graph with forecast:  bold-- emphasized  ntentionally
+
+Model visual #3: 100% stacked bars:  color-- single attention‐grabbing color and words make the visual accessible
+
+Model visual #4: leveraging positive and negative stacked bars
+
+In closing:
+
+(1) the choice of graph type and ordering of data.
+
+(2) the use of color, thickness, and size -- to emphasize and de‐emphasize components
+
